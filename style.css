@@ -1,0 +1,58 @@
+*{
+    background-color: antiquewhite;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Stylish', sans-serif;
+    
+}
+
+
+body{
+    min-height: 100vh;
+}
+h1{
+    padding: 2%;
+    font-family: 'Stylish', sans-serif;
+    text-align: center;
+    font-size: 72px;
+    color: rgb(157, 4, 93);
+}
+
+input{
+    padding: 1%;
+    margin: 5px;
+    background-color:rgba(157, 4,93, 0.7);
+    width: 80px;
+    height: 52px;
+    border: 1px solid antiquewhite;
+    border-radius: 3px;
+    font-size: 30px;
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+#print{
+    color:rgb(157, 4,93);
+    font-size: 90px;
+    font-weight: bold;
+
+
+}
+
+#b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9 :focus{
+
+    box-shadow: 20px 20px 50px 15px antiquewhite;
+    border: 2px solid antiquewhite;
+}
+
+button{
+   
+    font-family: 'Stylish', sans-serif;
+    text-align: center;
+    width: 180px;
+    height: 85px;
+    border: 1px solid rgb(15, 174, 232);
+    background-color:rgb(15, 174, 232);
+    font-size: 45px;
+}
